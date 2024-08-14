@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C7B7A3"
+    tools:context=".coupleGameActivity">
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/myAnimation"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="72dp"
+    android:paddingTop="30dp"
+        android:soundEffectsEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:lottie_fileName="wineanimation.json"
+        app:lottie_loop="true"
+         />
+
+    <TextView
+        android:id="@+id/qustion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+
+        android:textColor="#990011"
+
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/circleImageView"
+        app:layout_constraintVertical_bias="0.0"></TextView>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout3"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="50dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/Run"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/truthButton"
+            android:layout_width="150sp"
+            android:layout_height="60sp"
+            android:layout_marginLeft="40dp"
+            android:background="@drawable/mybuttonshape"
+            android:text="Truth"
+            android:textAlignment="center"
+            android:textColor="#FCF6F5"
+            android:textSize="40sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"></TextView>
+
+        <TextView
+            android:id="@+id/dareButton"
+            android:layout_width="150sp"
+            android:layout_height="60sp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/mybuttonshape"
+            android:text="Dare"
+            android:textAlignment="center"
+            android:textColor="#FCF6F5"
+            android:textSize="40sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"></TextView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/circleImageView"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:src="@drawable/devil"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/myAnimation"></de.hdodenhof.circleimageview.CircleImageView>
+
+    <TextView
+        android:id="@+id/Run"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="60dp"
+
+        android:background="@drawable/mybuttonshape"
+        android:gravity="center"
+        android:text="Spin The  Bottle"
+        android:textColor="#FCF6F5"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"></TextView>
+</androidx.constraintlayout.widget.ConstraintLayout>

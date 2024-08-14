@@ -1,0 +1,186 @@
+  Truth: What is your biggest fear?
+  Truth: Have you ever had a crush on someone in this room?
+   Truth:What is the most embarrassing thing you've ever done?
+  Truth: What is a secret you've never told anyone?
+  Truth: What’s the most ridiculous thing you’ve done to get someone’s attention?
+  Truth: Have you ever lied to your best friend? If so, about what?
+  Truth: What’s the biggest lie you’ve ever told?
+  Truth: Have you ever stolen something? If so, what?
+  Truth: What is the worst date you've ever been on?
+  Truth: Who is your secret crush?
+  Truth: What’s the most trouble you’ve ever gotten into at school?
+  Truth: Have you ever had a crush on a teacher?
+  Truth: What is something you wish you could change about yourself?
+  Truth: What’s the worst gift you’ve ever received?
+  Truth: What’s your biggest regret?
+  Truth: Have you ever had a paranormal experience?
+  Truth: What’s one thing you can’t live without?
+  Truth: What’s the most ridiculous argument you’ve ever had?
+  Truth: What’s a habit you have that you’re ashamed of?
+  Truth: Have you ever been caught doing something you weren’t supposed to?
+  Truth: What’s one thing you wish you could tell your younger self?
+   Truth:What’s your most unusual talent?
+  Truth: Have you ever broken a bone? If so, how?
+  Truth: What’s your biggest insecurity?
+  Truth: Have you ever had a secret you were too afraid to tell?
+   Truth:What’s the worst lie you’ve ever told?
+  Truth: What’s the most embarrassing thing you’ve done in front of a crush?
+  Truth: Have you ever been in love?
+  Truth: What’s the most unusual thing you’ve ever eaten?
+  Truth: Have you ever had a major crush on someone you didn’t know well?
+  Truth: What’s the biggest prank you’ve ever pulled off?
+  Truth: What’s one thing you’ve never told your parents?
+  Truth: What’s a guilty pleasure you have?
+  Truth: Have you ever had a falling out with a friend?
+  Truth: What’s the most spontaneous thing you’ve ever done?
+  Truth: What’s something you’ve done that you’re really proud of?
+  Truth: Have you ever told someone you loved them when you didn’t mean it?
+  Truth: What’s the most awkward situation you’ve ever been in?
+  Truth: What’s the biggest lie you’ve told a teacher?
+  Truth: Have you ever kept a secret from your parents?
+  Truth: What’s the strangest dream you’ve ever had?
+  Truth: What’s the weirdest thing you’ve done when no one was watching?
+  Truth: Have you ever tried to get out of a class or work? If so, how?
+ Truth:  What’s the worst haircut you’ve ever had?
+ Truth:  What’s something you wish you could tell your future self?
+  Truth: Have you ever been caught doing something you shouldn’t have?
+  Truth: What’s the worst trouble you’ve ever been in with your parents?
+  Truth: What’s the strangest compliment you’ve ever received?
+  Truth: What’s one thing you regret not doing?
+  Truth: Have you ever been in a physical fight?
+  Truth: Who in this room do you think is most likely to become famous?
+Truth:What’s the most embarrassing thing in your search history?
+Truth:What’s one thing you’ve done that you wish you could undo?
+Truth:Who is someone you look up to and why?
+Truth:What’s the worst thing you’ve ever said to someone in anger?
+Truth:Have you ever had a dream about someone in this room?
+Truth:What’s the biggest risk you’ve ever taken?
+Truth:What’s something you’re deeply afraid of?
+Truth:Have you ever broken a promise? If so, to whom and why?
+Truth:What’s the most trouble you’ve ever gotten into with your parents?
+Truth:What’s a secret you’ve never told anyone in this room?
+Truth:What’s one thing you’ve always wanted to try but haven’t yet?
+Truth:What’s the most ridiculous thing you’ve ever convinced someone of?
+Truth:Have you ever pretended to be sick to get out of something? What was it?
+Truth:What’s the worst mistake you’ve made in a relationship?
+Truth:Have you ever said something you regret on social media?
+Truth:What’s a bad habit you can’t seem to break?
+Truth:Have you ever had a crush on a fictional character? Who?
+Truth:What’s the most embarrassing thing you’ve done in public?
+Truth:What’s the most awkward situation you’ve ever found yourself in?
+Truth:What’s something you wish you were better at?
+Truth:Have you ever been in love with someone who didn’t love you back?
+Truth:What’s a personal goal you haven’t yet achieved?
+Truth:What’s the worst date you’ve ever been on?
+Truth:Have you ever had a crush on a friend’s crush/partner?
+Truth:What’s the longest you’ve worn the same outfit for?
+Truth:What do you think is your best feature?
+Truth:Have you ever cheated on a test?
+Truth:Have you showered today?
+Truth:What’s the weirdest food combo that you eat?
+Truth:What’s the meanest thing you have ever said to someone?
+Truth:What was the last movie that made you cry?
+Truth:If you had to be stuck on a desert island with any celebrity, who would it be?
+Truth:Have you ever gotten arrested or almost gotten arrested?
+Truth:Have you ever blamed a fart on somebody else?
+Truth:When is the last time you peed in your pants?
+Truth:If you were famous, what would it be for?
+Truth:What is your biggest insecurity?
+Truth:Who was the last person you betrayed?
+Truth: What’s the stupidest thing you were scared of as a kid?
+Truth: Do you sing in the shower?
+Truth: Do you cheat at board exam?
+Truth: Who is your least favorite family member?
+Truth: Have you ever lied on your resume?
+Truth: Do you ever intentionally smell your own farts?
+Truth: What is the worst thing you have ever smelled?
+Truth: What is the craziest dream you can remember having?
+Truth: Have you ever performed in front of a crowd?
+Truth:Was this college your first choice?
+Truth:Are you glad to be away from some of your high school friends?
+Truth:Have you lost your virginity? If not, do you want to?
+Truth:Who is the cringiest social media influencer that you secretly love?
+Truth:What’s your “type?”
+Truth:Why did your last relationship end?
+Truth:What is one thing you want to change about yourself in college?
+Truth:Have you ever tried dating apps?
+Truth:Do you have any tattoos that you regret getting?
+Truth:Who’s your favorite professor?
+Truth:What was your first impression of me as a roommate?
+Truth:Have you ever lied to someone to impress them?
+Truth:Are you attracted to anyone in our hallway (or classes)?
+ Truth:What's the last lie you told?
+Truth: What was the most embarrassing thing you've ever done on a date?
+ Truth:Have you ever accidentally hit something (or someone!) with your car?
+Truth: Name someone you've pretended to like but actually couldn't stand.
+Truth: What's your most bizarre nickname?
+Truth: What's been your most physically painful experience?
+Truth: What's the craziest thing you've done on public transportation?
+Truth: If you met a genie, what would your three wishes be?
+Truth: What's the meanest thing you've ever said to someone else?
+Truth: Who was your worst kiss ever?
+Truth: What's one thing you'd do if you knew there were no consequences?
+Truth: What's the craziest thing you've done in front of a mirror?
+Truth: What's something you love to do with your friends that you'd never do in front of your partner?
+Truth: Who are you most jealous of?
+Truth: What do your favorite pajamas look like?
+Truth: Have you ever faked sick to get out of a party?
+Truth: Who's the oldest person you've dated?
+Truth: How many selfies do you take a day?
+Truth: How many times a week do you wear the same pants?
+Truth: Would you date your high school crush today?
+ Truth:Do you believe in any superstitions? If so, which ones?
+Truth: What's one movie you're embarrassed to admit you enjoy?
+Truth: When was the last time you apologized? What for?
+Truth: Have you ever had a big crush on someone who is much older or younger than you?
+Truth: Where do most of your embarrassing odors come from?
+Truth: Have you ever considered cheating on a partner?
+Truth: Have you ever cheated on a partner?
+Truth: Have you ever peed in a pool?
+Truth: What's the weirdest place you've ever grown hair?
+Truth: If you were guaranteed to never get caught, who on Earth would you murder?
+Truth: What's the cheapest gift you've ever gotten for someone else?
+Truth: What app do you waste the most time on?
+Truth: Have you ever been nude in public?
+Truth: How many gossip blogs do you read a day?
+Truth: What is the youngest age partner you'd date?
+Truth: If you had to delete one app from your phone, which one would it be?
+Truth: What's your most embarrassing late-night purchase?
+Truth: What's the longest you've gone without showering?
+Truth: Have you ever used a fake ID?
+Truth: Which of your family members annoys you the most and why?
+Truth: What is your greatest fear in a relationship?
+Truth: What's the most embarrassing text in your phone right now?
+Truth: Have you ever seen a dead body?
+Truth: What celebrity do you think is overrated?
+Truth: What's the longest you've gone without brushing your teeth?
+Truth: What's your biggest regret in life?
+Truth: Who would you hate to see naked?
+Truth: Would you break up with your partner for $1 million?
+Truth: Do you still have feelings for any of your exes?
+Truth: What's the smallest tip you've ever left at a restaurant?
+Truth: Have you ever regretted something you did to get a crush or partner's attention?
+Truth: What's one job you could never do?
+Truth: Have you ever ghosted a friend?
+Truth: Have you ever ghosted a partner?
+Truth: If you switched genders for a day, what would you do?
+Truth: How many photo editing apps do you have on your phone?
+Truth: When was the last time you got dumped?
+Truth: What's the most childish thing you still do?
+Truth: When was the last time you dumped someone?
+Truth: If you had to pick someone in this room to be your partner on a game show, who would it be and why?
+Truth: Would you date someone shorter than you?
+Truth: Have you ever lied for a friend?
+Truth: Name one thing you'd change about every person in this room.
+Truth: When was the last time you made someone else cry?
+Truth: What's the most embarrassing thing you've done in front of a crowd?
+Truth: If you could become invisible, what's the worst thing you'd do?
+Truth: After you've dropped a piece of food, what's the longest time you've left it on the floor before eating it?
+Truth: What's one thing in your life you wish you could change?
+Truth: If you could date two people at once, would you do it? If so, who?
+Truth: What was the greatest day of your life?
+Truth: What's one useless skill you'd love to learn anyway?
+Truth: If I went through your cabinets, what's the weirdest thing I'd find?
+Truth: How many people have you kissed?
+Truth: Have you ever gotten mad at a friend for posting an unflattering picture of you?
+Truth: Who in this room would you list as your emergency contact?
